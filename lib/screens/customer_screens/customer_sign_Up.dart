@@ -81,8 +81,7 @@ class _CustomerSignUpState extends State<CustomerSignUp> {
                   backgroundColor: Colors.white,
                   child: CircleAvatar(
                     radius: 52,
-                    backgroundImage:
-                        AssetImage('assets/images/officefurnising.jpg'),
+                    backgroundImage: AssetImage('assets/images/logo2.png'),
                   ),
                 ),
               ),

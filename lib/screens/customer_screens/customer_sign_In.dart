@@ -40,8 +40,7 @@ class _CustomerSignInState extends State<CustomerSignIn> {
                 backgroundColor: Colors.white,
                 child: CircleAvatar(
                   radius: 110,
-                  backgroundImage:
-                      AssetImage('assets/images/officefurnising.jpg'),
+                  backgroundImage: AssetImage('assets/images/logo2.png'),
                 ),
               ),
             ),
